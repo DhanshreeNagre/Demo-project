@@ -1,11 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Mckinleyrice Demo
-//
-//  Created by Dhanshree Nagre on 01/01/20.
-//  Copyright © 2020 Dhanshree Nagre. All rights reserved.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
